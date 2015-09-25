@@ -1,0 +1,21 @@
+[submodule "WEKA-NLP"]
+	path = WEKA-NLP
+	url = git@github.com:SocialSLA/WEKA-NLP.git
+[submodule "CDI"]
+	path = CDI
+	url = git@github.com:SocialSLA/CDI.git
+[submodule "CDI-Utils"]
+	path = CDI-Utils
+	url = git@github.com:SocialSLA/CDI-Utils.git
+[submodule "PTStemmer-Java"]
+	path = PTStemmer-Java
+	url = git@github.com:SocialSLA/PTStemmer-Java.git
+[submodule "WEKA-JPA"]
+	path = WEKA-JPA
+	url = git@github.com:SocialSLA/Weka-JPA-Persistence.git
+[submodule "Persistence"]
+	path = Persistence
+	url = git@github.com:SocialSLA/Persistence.git
+[submodule "Desktop-Main-APP"]
+	path = Desktop-Main-APP
+	url = git@github.com:SocialSLA/Desktop-Main-APP.git
