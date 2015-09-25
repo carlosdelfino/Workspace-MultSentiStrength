@@ -23,6 +23,11 @@ respectivos repositórios utilizados neste trabalho.
 
 
 # Projetos Externos (referenciados)
+ * TM WEKA - Text Mine with WEKA
+    Repositório: http://github.com:SocialSLA/tmweka
+    Original: https://github.com/jmgomezh/tmweka
+    Site: http://www.esp.uem.es/jmgomez/tmweka/
+
 
 # Issues/Discussão
 

@@ -19,3 +19,6 @@
 [submodule "Desktop-Main-APP"]
 	path = Desktop-Main-APP
 	url = git@github.com:SocialSLA/Desktop-Main-APP.git
+[submodule "TM-WEKA"]
+	path = TM-WEKA
+	url = git@github.com:SocialSLA/tmweka.git
