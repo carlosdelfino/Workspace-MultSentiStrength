@@ -33,3 +33,10 @@ respectivos repositórios utilizados neste trabalho.
 
 [Abrir um novo Issue/Discussão](https://github.com/SocialSLA/workspace/issues)
 
+
+# Como Contribuir
+
+Para contribuir com o projeto use o link para informar um Issue ou iniciar um debate no link informado na seção anterior.
+
+Você também pode entrar em contato com os programadores em especial Carlos Delfino no e-mail consultoria@carlosdelfino.eti.br e informar seu interesse. O arquivo [Como Montar o Projeto](ComoMontarOProjeto.md) contem informações como montar o projeto em sua maquina.
+
