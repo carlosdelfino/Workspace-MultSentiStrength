@@ -20,6 +20,8 @@ respectivos repositórios utilizados neste trabalho.
 	Repositório: http://github.com:SocialSLA/Persistence
  * Desktop-Main-APP
 	Repositório: http://github.com:SocialSLA/Desktop-Main-APP
+ * [mysql-connector-mxj-gpl-db-files](http://socialsla.github.io/mysql-connector-mxj-gpl-db-files)
+        Repositório: http://github.com:SocialSLA/mysql-connector-mxj-gpl-db-files
 
 
 # Projetos Externos (referenciados)
