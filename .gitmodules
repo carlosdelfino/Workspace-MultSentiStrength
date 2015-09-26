@@ -22,3 +22,6 @@
 [submodule "TM-WEKA"]
 	path = TM-WEKA
 	url = git@github.com:SocialSLA/tmweka.git
+[submodule "mysql-connector-mxj-gpl-db-files"]
+	path = mysql-connector-mxj-gpl-db-files
+	url = git@github.com:SocialSLA/mysql-connector-mxj-gpl-db-files.git
